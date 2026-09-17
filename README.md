@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
