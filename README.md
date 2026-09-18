@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
@@ -33,9 +34,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
