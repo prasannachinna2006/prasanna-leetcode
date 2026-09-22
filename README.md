@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0896-monotonic-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
