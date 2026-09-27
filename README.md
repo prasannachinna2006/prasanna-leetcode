@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
 | ------- |
