@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0896-monotonic-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1991-find-the-middle-index-in-array) |
