@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0205-isomorphic-strings) |
+| [0709-to-lower-case](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0819-most-common-word) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
