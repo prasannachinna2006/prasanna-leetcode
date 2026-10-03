@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0819-most-common-word) |
 | [0896-monotonic-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0896-monotonic-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
