@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
