@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0389-find-the-difference) |
 | [0819-most-common-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0819-most-common-word) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0709-to-lower-case) |
 | [0819-most-common-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0844-backspace-string-compare) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
