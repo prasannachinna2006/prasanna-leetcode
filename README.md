@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0819-most-common-word) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0682-baseball-game) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0389-find-the-difference) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
