@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0819-most-common-word) |
+| [1207-unique-number-of-occurrences](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0819-most-common-word) |
 | [0896-monotonic-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0896-monotonic-array) |
+| [1207-unique-number-of-occurrences](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1991-find-the-middle-index-in-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
