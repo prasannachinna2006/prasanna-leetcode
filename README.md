@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
