@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0896-monotonic-array) |
 | [1207-unique-number-of-occurrences](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1991-find-the-middle-index-in-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
