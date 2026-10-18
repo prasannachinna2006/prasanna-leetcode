@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1952-three-divisors](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/2652-sum-multiples) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/2413-smallest-even-multiple) |
 ## Sliding Window
 |  |
@@ -173,4 +175,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0496-next-greater-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
