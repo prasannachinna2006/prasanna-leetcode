@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0575-distribute-candies) |
 | [0748-shortest-completing-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prasannachinna2006/prasanna-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
